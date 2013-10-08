@@ -1,0 +1,87 @@
+Altera SOPC Builder Version 10.10 Build 153
+Copyright (c) 1999-2009 Altera Corporation.  All rights reserved.
+
+
+No .sopc_builder configuration file(!)
+# 2012.04.26 13:54:44 (*) mk_custom_sdk starting
+# 2012.04.26 13:54:44 (*) Reading project D:/CD1/CD1_demonstrations/CD1_MT9M001C_DISPALY/unnamed.ptf.
+
+# 2012.04.26 13:54:44 (*) Finding all CPUs
+# 2012.04.26 13:54:44 (*) Finding all available components
+# 2012.04.26 13:54:44 (*) Reading D:/CD1/CD1_demonstrations/CD1_MT9M001C_DISPALY/.sopc_builder/install.ptf
+
+# 2012.04.26 13:54:44 (*) Found 63 components
+
+# 2012.04.26 13:54:44 (*) Finding all peripherals
+
+# 2012.04.26 13:54:44 (*) Finding software components
+
+# 2012.04.26 13:54:45 (*) (Legacy SDK Generation Skipped)
+# 2012.04.26 13:54:45 (*) (All TCL Script Generation Skipped)
+# 2012.04.26 13:54:45 (*) (No Libraries Built)
+# 2012.04.26 13:54:45 (*) (Contents Generation Skipped)
+# 2012.04.26 13:54:45 (*) mk_custom_sdk finishing
+
+# 2012.04.26 13:54:45 (*) Starting generation for system: unnamed.
+
+.
+.
+.
+..
+
+# 2012.04.26 13:54:46 (*) Running Generator Program for cpu_0
+
+# 2012.04.26 13:54:47 (*) Starting Nios II generation
+# 2012.04.26 13:54:47 (*)   Checking for plaintext license.
+# 2012.04.26 13:54:47 (*)   Plaintext license not found.
+# 2012.04.26 13:54:47 (*)   Checking for encrypted license (non-evaluation).
+# 2012.04.26 13:54:47 (*)   Encrypted license found.  SOF will not be time-limited.
+# 2012.04.26 13:54:47 (*)   Getting CPU configuration settings
+# 2012.04.26 13:54:47 (*)   Elaborating CPU configuration settings
+# 2012.04.26 13:54:48 (*)   Creating all objects for CPU
+
+# 2012.04.26 13:54:48 (*)     Testbench
+# 2012.04.26 13:54:48 (*)     Instruction decoding
+# 2012.04.26 13:54:48 (*)       Instruction fields
+# 2012.04.26 13:54:48 (*)       Instruction decodes
+# 2012.04.26 13:54:49 (*)       Signals for RTL simulation waveforms
+# 2012.04.26 13:54:49 (*)       Instruction controls
+# 2012.04.26 13:54:49 (*)     Pipeline frontend
+# 2012.04.26 13:54:49 (*)     Pipeline backend
+# 2012.04.26 13:54:54 (*)   Generating HDL from CPU objects
+# 2012.04.26 13:54:58 (*)   Creating encrypted HDL
+
+# 2012.04.26 13:54:59 (*) Done Nios II generation
+
+# 2012.04.26 13:55:00 (*) Running Generator Program for jtag_uart_0
+
+# 2012.04.26 13:55:00 (*) Running Generator Program for sdram_0
+
+# 2012.04.26 13:55:01 (*) Running Generator Program for SDA
+
+# 2012.04.26 13:55:02 (*) Running Generator Program for SCL
+
+.
+
+# 2012.04.26 13:55:02 (*) Running Test Generator Program for sdram_0
+
+# 2012.04.26 13:55:03 (*) Making arbitration and system (top) modules.
+
+# 2012.04.26 13:55:06 (*) Generating Quartus symbol for top level: unnamed
+# 2012.04.26 13:55:06 (*) Generating Symbol D:/CD1/CD1_demonstrations/CD1_MT9M001C_DISPALY/unnamed.bsf
+
+# 2012.04.26 13:55:06 (*) Creating command-line system-generation script: D:/CD1/CD1_demonstrations/CD1_MT9M001C_DISPALY/unnamed_generation_script
+
+# 2012.04.26 13:55:06 (*) Running setup for HDL simulator: modelsim
+
+
+# 2012.04.26 13:55:06 (*) Completed generation for system: unnamed.
+# 2012.04.26 13:55:06 (*) THE FOLLOWING SYSTEM ITEMS HAVE BEEN GENERATED:
+  SOPC Builder database : D:/CD1/CD1_demonstrations/CD1_MT9M001C_DISPALY/unnamed.ptf 
+  System HDL Model : D:/CD1/CD1_demonstrations/CD1_MT9M001C_DISPALY/unnamed.v 
+  System Generation Script : D:/CD1/CD1_demonstrations/CD1_MT9M001C_DISPALY/unnamed_generation_script 
+
+# 2012.04.26 13:55:06 (*) SUCCESS: SYSTEM GENERATION COMPLETED.
+
+
+Press 'Exit' to exit.

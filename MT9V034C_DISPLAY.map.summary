@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Nov 26 14:47:38 2012
+Quartus II 64-Bit Version : 10.1 Build 153 11/29/2010 SJ Full Version
+Revision Name : MT9V034C_DISPLAY
+Top-level Entity Name : MT9V034C_DISPLAY
+Family : Cyclone III
+Total logic elements : 1,005
+    Total combinational functions : 787
+    Dedicated logic registers : 626
+Total registers : 626
+Total pins : 304
+Total virtual pins : 0
+Total memory bits : 50,948
+Embedded Multiplier 9-bit elements : 9
+Total PLLs : 2

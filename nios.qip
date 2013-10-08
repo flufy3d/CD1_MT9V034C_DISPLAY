@@ -1,0 +1,12 @@
+# clk_0
+# cpu_0
+set_global_assignment -name SDC_FILE [file join $::quartus(qip_path) cpu_0.sdc]
+set_global_assignment -name SOURCE_FILE [file join $::quartus(qip_path) cpu_0.ocp]
+# jtag_uart_0
+# sdram_0
+# SDA
+# SCL
+# epcs_flash_controller_0
+# null
+set_global_assignment -name SOPC_BUILDER_SIGNATURE_ID 00000000000000E0000001394D8F8ACB 
+ 

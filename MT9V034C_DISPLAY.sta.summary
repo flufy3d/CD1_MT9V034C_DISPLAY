@@ -1,0 +1,257 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'GPIO2[18]'
+Slack : -6.363
+TNS   : -556.743
+
+Type  : Slow 1200mV 85C Model Setup 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -3.946
+TNS   : -126.052
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : 16.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 34.926
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'GPIO2[18]'
+Slack : -1.302
+TNS   : -1.302
+
+Type  : Slow 1200mV 85C Model Hold 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.640
+TNS   : -431.092
+
+Type  : Slow 1200mV 85C Model Recovery 'RAW2RGB:u10|dval_ctrl'
+Slack : -3.494
+TNS   : -3.494
+
+Type  : Slow 1200mV 85C Model Recovery 'GPIO2[18]'
+Slack : -2.031
+TNS   : -385.121
+
+Type  : Slow 1200mV 85C Model Recovery 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 14.840
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'GPIO2[18]'
+Slack : 1.435
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.984
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'RAW2RGB:u10|dval_ctrl'
+Slack : 3.986
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.389
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'GPIO2[18]'
+Slack : -9.457
+TNS   : -327.848
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'RAW2RGB:u10|dval_ctrl'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.736
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.592
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.750
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'GPIO2[18]'
+Slack : -5.611
+TNS   : -478.307
+
+Type  : Slow 1200mV 0C Model Setup 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -3.467
+TNS   : -110.047
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : 16.673
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 35.447
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'GPIO2[18]'
+Slack : -1.267
+TNS   : -1.267
+
+Type  : Slow 1200mV 0C Model Hold 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -3.999
+TNS   : -371.331
+
+Type  : Slow 1200mV 0C Model Recovery 'RAW2RGB:u10|dval_ctrl'
+Slack : -3.063
+TNS   : -3.063
+
+Type  : Slow 1200mV 0C Model Recovery 'GPIO2[18]'
+Slack : -1.665
+TNS   : -312.880
+
+Type  : Slow 1200mV 0C Model Recovery 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 15.437
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'GPIO2[18]'
+Slack : 1.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.504
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'RAW2RGB:u10|dval_ctrl'
+Slack : 3.613
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.861
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'GPIO2[18]'
+Slack : -9.457
+TNS   : -327.809
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'RAW2RGB:u10|dval_ctrl'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.740
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.588
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.747
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'GPIO2[18]'
+Slack : -3.137
+TNS   : -226.260
+
+Type  : Fast 1200mV 0C Model Setup 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.862
+TNS   : -58.935
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : 17.906
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 36.953
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'GPIO2[18]'
+Slack : -0.665
+TNS   : -0.665
+
+Type  : Fast 1200mV 0C Model Hold 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.179
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.283
+TNS   : -211.540
+
+Type  : Fast 1200mV 0C Model Recovery 'RAW2RGB:u10|dval_ctrl'
+Slack : -1.604
+TNS   : -1.604
+
+Type  : Fast 1200mV 0C Model Recovery 'GPIO2[18]'
+Slack : -0.873
+TNS   : -150.467
+
+Type  : Fast 1200mV 0C Model Recovery 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 16.957
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'GPIO2[18]'
+Slack : 0.766
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'RAW2RGB:u10|dval_ctrl'
+Slack : 2.255
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.261
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.452
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'GPIO2[18]'
+Slack : -9.457
+TNS   : -387.096
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'RAW2RGB:u10|dval_ctrl'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u8|sdram_pll1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.746
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.267
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u11|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.752
+TNS   : 0.000
+
+------------------------------------------------------------

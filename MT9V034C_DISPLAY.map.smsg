@@ -1,0 +1,2 @@
+Warning (10273): Verilog HDL warning at Sdram_Control_4Port.v(328): extended using "x" or "z"
+Warning (10268): Verilog HDL information at CMOS_Capture.v(82): always construct contains both blocking and non-blocking assignments
